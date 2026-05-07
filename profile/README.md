@@ -25,7 +25,7 @@
 
 > *"We don't just build AI — we explore what AI can become."*
 
-**Nexvisora Research** is an advanced AI research organization dedicated to building systems that **think, learn, and evolve**. We sit at the intersection of theoretical machine learning and real-world deployment, pushing the boundaries of what intelligent systems can do.
+**Nexvisora Research** is an advanced AI research  dedicated to building systems that **think, learn, and evolve**. We sit at the intersection of theoretical machine learning and real-world deployment, pushing the boundaries of what intelligent systems can do.
 
 Our work is grounded in a single mission: **build powerful AI that is safe, interpretable, and genuinely useful** — not just impressive on benchmarks.
 
